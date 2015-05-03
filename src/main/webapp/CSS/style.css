@@ -1,0 +1,7 @@
+.fixed-width{
+    max-width: 500px;
+}
+.fixed-height{
+    min-height: 370px;
+    max-height: 700px;
+}
